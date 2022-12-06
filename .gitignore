@@ -1,0 +1,7 @@
+// Environmental Variables
+.env
+
+// Node Packages
+package.json
+package-lock.json
+node_modules
